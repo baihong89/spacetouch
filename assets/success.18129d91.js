@@ -1,1 +1,0 @@
-import{f as s,d as a,e as c,u as e,p as o,b as d,o as t,C as p}from"./vendor.093fe66b.js";o("data-v-6c91cd9b");const l={class:"success"},b=c("p",null,"您已完成注册，请耐心等待人工审核身份",-1);d();const r={expose:[],setup:o=>(s(),(s,o)=>(t(),a("div",l,[c(e(p),{style:{color:"#1296db"}}),b]))),__scopeId:"data-v-6c91cd9b"};export default r;
